@@ -24,6 +24,7 @@ Este sistema fornece uma interface no Google Colab.
 
 ### Para qualquer dúvida ou suporte técnico, entre em contato através de:
 
-> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" heidth="30"/>](#) ** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" heidth="30"/>](https://br.linkedin.com/in/marcelo-cardoso-de-oliveira)
+![image](https://github.com/marceloc4rdoso/DesafioAI/assets/2300304/0cc932a8-d570-4478-8e1e-4b096177764b)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" heidth="100"/>](https://br.linkedin.com/in/marcelo-cardoso-de-oliveira)
                 
 
