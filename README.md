@@ -6,7 +6,10 @@
 Muitos trabaladores tem dúvidas sobre as informações contidas nesse documento. Esse projeto irá ajudar a você entender melhor.
 Utilizando a API do Gemini para enriquecer as respostas e tornalas menos formais - 05/2024
 ## Tecnologias usadas:
-> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" heidth="40"/>] ** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" heidth="40"/>]
+![image](https://github.com/marceloc4rdoso/DesafioAI/assets/2300304/7478ccef-4bc5-4c0a-94f4-ceeafb29d30f)
+![image](https://github.com/marceloc4rdoso/DesafioAI/assets/2300304/8a5a161f-c340-45d0-94a3-8007b1afd74d)
+![image](https://github.com/marceloc4rdoso/DesafioAI/assets/2300304/e2d5bfb6-83d4-454b-86dd-3973564322ae)
+# Gemini
 
 Clone o repositório!
 
