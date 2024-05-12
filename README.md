@@ -1,7 +1,7 @@
 # Desafio Imersão AI  Alura + Google
 ## Utilizando a API do Gemini
 
-![banner](https://github.com/marceloc4rdoso/gestao-de-estoque-para-pequenas-empresas/blob/main/estoque2.jpg)
+![banner](https://github.com/marceloc4rdoso/DesafioAI/blob/main/holerite.png)
 # O projeto explica todos os campos de um demonstrativo de pagamento, vulgo holerite ou contracheque. 
 Muitos trabaladores tem dúvidas sobre as informações contidas nesse documento. Esse projeto irá ajudar a você entender melhor.
 Utilizando a API do Gemini para enriquecer as respostas e tornalas menos formais - 05/2024
